@@ -1,16 +1,163 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Novita17x/Novita17x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" height="300px" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 style="font-size:35px">Jhefferson Guerrero</h1>
+
+### Desarrollador Web Frontend | Estudiante de Ingeniería de Software
+
+<div align="center">
+  <a href="mailto:jheffer17x@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jhefferson-guerrero-torres-0a02b1338/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Novita17x">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+---
+
+</div>
+
+## Sobre mí
+
+Apasionado por la tecnología y el desarrollo web, especialmente por crear interfaces que no solo se vean bien, sino que funcionen excepcionalmente. Me motiva aprender constantemente nuevas herramientas, descubrir diseños web innovadores y entender cómo funcionan por dentro. Disfruto del proceso de transformar ideas en aplicaciones web funcionales y escalables.
+
+Actualmente en 9º ciclo de Ingeniería de Software en la UTP, buscando **prácticas preprofesionales** donde pueda aportar mis habilidades en frontend mientras continúo creciendo como desarrollador.
+
+```javascript
+const jhefferson = {
+  ubicacion: "Lima, Perú",
+  enfoque: "Frontend Development",
+  aprendiendo: ["React avanzado", "Optimización web", "Nuevos frameworks"],
+  intereses: ["Videojuegos", "Tech reviews", "Diseño UI/UX"],
+  buscando: "Prácticas preprofesionales"
+};
+```
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
+</div>
+
+---
+
+## Proyectos Destacados
+
+### Academia Fertex - Sitio Web Institucional
+**Landing page moderna y optimizada para academia de artes marciales**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Novita17x/fertex/main/preview.png" alt="Fertex Preview" width="600"/>
+</div>
+
+**Stack:** React · Tailwind CSS · JavaScript
+
+**Características:**
+- Diseño mobile-first con optimización de performance
+- Skeleton loading y lazy loading de recursos
+- Intersection Observer para animaciones progresivas
+- Información de disciplinas, horarios e instructores
+- Mapa integrado de ubicación
+
+**Impacto:** Incrementó la visibilidad digital y facilitó la captación de nuevos alumnos (+200 familias activas)
+
+[Ver sitio en vivo](https://taekwondofertex.com/) · [Ver código](https://github.com/Novita17x/fertex)
+
+---
+
+### Sistema Mesa de Partes Virtual
+**Plataforma completa para digitalización de trámites administrativos**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Novita17x/mesa-de-partes-ccjn/main/preview.png" alt="Mesa de Partes Preview" width="600"/>
+</div>
+
+**Stack:** JavaScript · HTML5 · CSS3 · Firebase
+
+**Funcionalidades:**
+- Sistema de autenticación completo (registro, login, recuperación)
+- Dashboard personalizado con historial de trámites
+- Carga y envío de documentos con validación
+- Notificaciones automáticas por email
+- Sincronización en tiempo real con Firestore
+
+**Impacto:** Automatización del 100% del proceso de recepción documental, eliminando tiempos de espera y errores manuales
+
+[Ver demo](https://mesa-de-partes-5c6c2.web.app/) · [Ver código](https://github.com/Novita17x/mesa-de-partes-ccjn)
+
+---
+
+### Otros Proyectos
+
+**Electro Store** - E-commerce con carrito de compras | [Ver código](https://github.com/Novita17x/electro-store)
+- Stack: PHP · MySQL · JavaScript
+
+**Mini-proyectos JavaScript**
+- Memory Fruit - Juego de memoria interactivo
+- Huye Game - Juego de habilidad y reflejos
+- Reconocimiento de Voz - Experimento con Web Speech API
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Novita17x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B794F4&icon_color=B794F4&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Novita17x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B794F4&text_color=C9D1D9" alt="Top Languages" height="170"/>
+</div>
+
+---
+
+## Actualmente
+
+- Cursando 9º ciclo de Ingeniería de Software en UTP
+- Buscando prácticas preprofesionales en desarrollo frontend
+- Aprendiendo sobre optimización web y mejores prácticas en React
+- Explorando nuevas tendencias en diseño UI/UX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -88,7 +88,7 @@ const jhefferson = {
 
 **Impacto:** Incrementó la visibilidad digital y facilitó la captación de nuevos alumnos (+200 familias activas)
 
-[Ver sitio en vivo](https://taekwondofertex.com/) · [Ver código](https://github.com/Novita17x/fertex)
+[Ver sitio en vivo](https://taekwondofertex.com/) · [Ver código](https://github.com/jhefferson-guerrero/fertex)
 
 ---
 
@@ -106,13 +106,13 @@ const jhefferson = {
 
 **Impacto:** Automatización del 100% del proceso de recepción documental, eliminando tiempos de espera y errores manuales
 
-[Ver demo](https://mesa-de-partes-5c6c2.web.app/) · [Ver código](https://github.com/Novita17x/mesa-de-partes-ccjn)
+[Ver demo](https://mesa-de-partes-5c6c2.web.app/) · [Ver código](https://github.com/jhefferson-guerrero/mesa-de-partes-ccjn)
 
 ---
 
 ### Otros Proyectos
 
-**Electro Store** - E-commerce con carrito de compras | [Ver código](https://github.com/Novita17x/electro-store)
+**Electro Store** - E-commerce con carrito de compras | [Ver código](https://github.com/jhefferson-guerrero/electro-store)
 - Stack: PHP · MySQL · JavaScript
 
 **Mini-proyectos JavaScript**
@@ -125,8 +125,8 @@ const jhefferson = {
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Novita17x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B794F4&icon_color=B794F4&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Novita17x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B794F4&text_color=C9D1D9" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jhefferson-guerrero&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B794F4&icon_color=B794F4&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhefferson-guerrero&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B794F4&text_color=C9D1D9" alt="Top Languages" height="170"/>
 </div>
 
 ---
